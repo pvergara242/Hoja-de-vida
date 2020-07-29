@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+label{
+    color:black;
+    position: absolute;
+    margin-top: 20px;
+    display: block;
+    margin-left: 100px;
+}
+img{
+    justify-content: center;
+    align-items: center;
+    display: block;
+    width: 50%;
+    height: 150px;
+    margin-left: 80px;
+    margin-top: 60px;
+}
+
+#sidebar{
+    position: fixed;
+    width: 25%;
+    height: 600px;
+    background-image: url("https://i.pinimg.com/736x/50/48/ed/5048ed1578ac90366fd369a9b574c539.jpg");
+    
+}
+
+button{
+    display: block;
+    margin-top: 50px;
+    margin-left: 20px;
+    width: 80%;
+    border-radius: 20px;
+    background:aquamarine;
+    color:white;
+    padding: 10px;
+    text-decoration: none;
+}
+
+#container20{
+display: flex;
+flex-wrap: wrap;
+position: fixed;
+margin-left: 320px;
+height: 600px;
+width: 300%;
+background-image: url("https://static.vecteezy.com/system/resources/previews/000/626/032/non_2x/soft-geometric-abstract-background-in-light-colors-vector.jpg");
+
+}
+
+.datospersonales{
+    height: 20px;
+    width: 800px;
+    margin-left: 70px;
+    margin-top: 100px;
+}
+
+.personal{
+    margin-top: 150px;
+    margin-left: -700px;
+}
+
+.datospersonales1{
+    height: 20px;
+    width: 800px;
+    margin-left: -670px;
+    margin-top: 300px;
+}
+.personal1{
+    margin-top: 350px;
+    margin-left: -700px;
+}
